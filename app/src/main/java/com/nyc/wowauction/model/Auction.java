@@ -4,7 +4,7 @@ package com.nyc.wowauction.model;
  * Created by Wayne Kellman on 12/14/17.
  */
 
-class Auction {
+public class Auction {
     /**
      * "auctions": [
      {"auc":1538284337,"item":3829,"owner":"Admin","ownerRealm":"Exodar","bid":4255429,
